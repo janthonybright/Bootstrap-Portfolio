@@ -1,3 +1,17 @@
-footer {
+body {
+    background-image: url(images/playstation-pattern.png);
+}
+#portfolio{
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
     width: 100%;
+}
+@media screen and (max-width: 600px) {
+    #footer {
+        position: relative;
+    }
 }
