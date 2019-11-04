@@ -1,2 +1,2 @@
 # Portfolio
-[Link] (https://janthonybright.github.io/Portfolio/)
+(Link) [https://janthonybright.github.io/Portfolio/]
