@@ -1,5 +1,5 @@
 # Portfolio
-[Webiste Link](jbrightcreative.com)
+[Webiste Link](https://jbrightcreative.com/)
 
 ## Joey Bright
 
